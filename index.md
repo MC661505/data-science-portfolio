@@ -27,3 +27,8 @@
 
 **Explanation**：  
 -This graph illustrates the trend of the residential price index (blue line) and the resident monthly income index (orange line) after being normalized by a 100-point benchmark. The residential prices have grown at a faster rate, resulting in a continuously widening cumulative gap between the two, indicating a decline in the affordability of housing (as described above [2]).  
+### Project Code Repository
+**Project Code**：<https://github.com/<MC661505>/analysis.> 
+
+### Project Status
+✅ **Completed** (Data collection, cleaning, visualization, and report writing have all been completed)
